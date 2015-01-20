@@ -46,3 +46,6 @@ Notes
 =====
 To use the JSON protocol client, you will need jsx.  This will be pulled in
 via rebar for building but not automatically installed by make install.
+=======
+# erlang-thrift
+erlang-thrift
